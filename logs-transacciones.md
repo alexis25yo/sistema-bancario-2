@@ -1,1 +1,1 @@
-Esto es un nuevo archo de transacciones
+Esto es un nuevo archivo transacciones
